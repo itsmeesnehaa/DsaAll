@@ -15,6 +15,6 @@ public class ReverseDigits {
     public static void main(String []args){
         ReverseDigits reverse = new ReverseDigits();
         int N = 9900;
-        System.out.print("Reverse number of given digit is : "+ reverse.reverseDigi(N));
+        System.out.print("Reverse number of given digit is : "+ reverseDigi(N));
     }
 }
